@@ -1,0 +1,13 @@
+{
+  "clangd.path": "/home/user/.cargo/bin/ra-multiplex",
+  "clangd.arguments": [
+    "client",
+    "--server-path",
+    "/usr/bin/clangd"
+  ],
+  "rust-analyzer.server.path": "/home/user/.cargo/bin/ra-multiplex",
+  "rust-analyzer.server.extraEnv": {
+    "RA_MUX_SERVER": "/custom/path/rust-analyzer"
+  },
+  "clangd.path": "/usr/local/bin/clangd-proxy"
+}
