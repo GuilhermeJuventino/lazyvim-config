@@ -30,8 +30,6 @@ return {
   -- disable trouble
   { "folke/trouble.nvim", enabled = false },
 
-<<<<<<< HEAD
-=======
   -- add symbols-outline
   {
     "simrat39/symbols-outline.nvim",
@@ -40,7 +38,6 @@ return {
     config = true,
   },
 
->>>>>>> 1000f5484429b5d617c491dcacb89b1b4d562987
   -- override nvim-cmp and add cmp-emoji
   {
     "hrsh7th/nvim-cmp",
@@ -74,8 +71,6 @@ return {
     },
   },
 
-<<<<<<< HEAD
-=======
   -- add telescope-fzf-native
   {
     "telescope.nvim",
@@ -88,7 +83,6 @@ return {
     },
   },
 
->>>>>>> 1000f5484429b5d617c491dcacb89b1b4d562987
   -- add pyright to lspconfig
   {
     "neovim/nvim-lspconfig",
@@ -216,8 +210,6 @@ return {
       },
     },
   },
-<<<<<<< HEAD
-=======
 
   -- Use <tab> for completion and snippets (supertab)
   -- first: disable default <tab> and <s-tab> behavior in LuaSnip
@@ -270,5 +262,4 @@ return {
       })
     end,
   },
->>>>>>> 1000f5484429b5d617c491dcacb89b1b4d562987
 }
