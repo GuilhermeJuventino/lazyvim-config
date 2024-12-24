@@ -1,9 +1,19 @@
 {
   "extras": [
+<<<<<<< HEAD
 
   ],
   "news": {
     "NEWS.md": "10960"
   },
   "version": 7
+=======
+    "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.lang.toml"
+  ],
+  "news": {
+    "NEWS.md": "6077"
+  },
+  "version": 6
+>>>>>>> 1000f5484429b5d617c491dcacb89b1b4d562987
 }

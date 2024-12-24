@@ -1,3 +1,7 @@
 indent_type = "Spaces"
 indent_width = 2
+<<<<<<< HEAD
 column_width = 120
+=======
+column_width = 120
+>>>>>>> 1000f5484429b5d617c491dcacb89b1b4d562987
